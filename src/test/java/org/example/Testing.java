@@ -7,6 +7,7 @@ public class Testing {
         System.out.println("I want to go to the ocean");
         System.out.println("I love my family");
         System.out.println("Bye, bye");
+        System.out.println("AVATARS ARE THE REAL DEAL");
 
     }
 
